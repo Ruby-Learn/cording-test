@@ -1,0 +1,15 @@
+= Getting Started
+
+=== Reference Documentation
+
+For further reference, please consider the following sections:
+
+* https://docs.gradle.org[Official Gradle documentation]
+* https://docs.spring.io/spring-boot/docs/2.7.5/gradle-plugin/reference/html/[Spring Boot Gradle Plugin Reference Guide]
+* https://docs.spring.io/spring-boot/docs/2.7.5/gradle-plugin/reference/html/#build-image[Create an OCI image]
+
+=== Additional Links
+
+These additional references should also help you:
+
+* https://scans.gradle.com#gradle[Gradle Build Scans – insights for your project's build]
